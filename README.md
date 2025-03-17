@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 Hi, I'm Anoushka, a multidisciplinary enthusiast with a interest in both software and electronics. In terms of programming, I'm proficient in Python, SQL, and C, and I also have experience with frontend development using HTML, CSS, and JavaScript. I'm currently pursuing my major in Electronics, which has given me a solid understanding of digital design using Verilog HDL and multiple simulation softwares. I'm currently exploring the world of Arduino and am eager to dive deeper into embedded systems. I'm excited to connect with like-minded individuals and contribute to the community!
 <!--
 **anoushkaghosh231/anoushkaghosh231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
